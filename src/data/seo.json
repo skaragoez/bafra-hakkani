@@ -1,0 +1,80 @@
+{
+  "site": {
+    "name": "Bafra Nakşibendî Hakkani Derneği",
+    "url": "https://bafra-hakkani.org",
+    "description": "Bafra'da Nakşibendî Hakkani yoluna bağlı derneğimizde Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
+    "locale": "tr_TR",
+    "type": "website"
+  },
+  "pages": {
+    "/": {
+      "title": "Bafra Nakşibendî Hakkani Derneği | Zikir ve Sohbet",
+      "description": "Bafra'da Nakşibendî Hakkani yoluna bağlı derneğimizde Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
+      "keywords": [
+        "Bafra Nakşibendî Hakkani Derneği",
+        "Nakşibendî yolu",
+        "Hatme-i Hacegan",
+        "Bafra dini dernek",
+        "Samsun tasavvuf",
+        "Zikir",
+        "Sohbet",
+        "Manevi topluluk"
+      ]
+    },
+    "/hakkimizda": {
+      "title": "Hakkımızda | Bafra Nakşibendî Hakkani Derneği",
+      "description": "Nakşibendî Hakkani yolunun prensipleri doğrultusunda faaliyet gösteren derneğimiz hakkında bilgi edinin.",
+      "keywords": [
+        "Bafra Nakşibendî",
+        "Hakkani derneği",
+        "Şeyh Nazım Kıbrısî",
+        "Şeyh Mehmet Adil",
+        "Manevi terbiye"
+      ]
+    },
+    "/naksibendi-yolu": {
+      "title": "Nakşibendî Yolu | Bafra Nakşibendî Hakkani Derneği",
+      "description": "Nakşibendî Hakkani yolunun esasları, zikir, sohbet ve kalp eğitimi hakkında detaylı bilgi.",
+      "keywords": [
+        "Nakşibendî yolu",
+        "Şeyh Nazım Kıbrısî",
+        "Şeyh Mehmet Adil",
+        "Tasavvuf",
+        "Zikir meclisi",
+        "Manevi sohbet"
+      ]
+    },
+    "/etkinlikler": {
+      "title": "Etkinlikler | Bafra Nakşibendî Hakkani Derneği",
+      "description": "Perşembe Hatme-i Hacegan ve diğer manevi programlarımız hakkında bilgi alın.",
+      "keywords": [
+        "Hatme-i Hacegan",
+        "Perşembe programı",
+        "Zikir meclisi",
+        "Bafra etkinlik",
+        "Manevi program"
+      ]
+    },
+    "/iletisim": {
+      "title": "İletişim | Bafra Nakşibendî Hakkani Derneği",
+      "description": "Bafra Nakşibendî Hakkani Derneği ile iletişime geçin.",
+      "keywords": [
+        "Bafra dernek iletişim",
+        "Nakşibendî Bafra",
+        "İletişim bilgileri"
+      ]
+    }
+  },
+  "organization": {
+    "name": "Bafra Nakşibendî Hakkani Derneği",
+    "legalName": "Bafra Nakşibendî Hakkani Derneği",
+    "description": "Nakşibendî Hakkani yoluna bağlı manevi topluluk",
+    "foundingLocation": "Bafra, Samsun, Türkiye",
+    "areaServed": "Bafra, Samsun",
+    "address": {
+      "addressLocality": "Bafra",
+      "addressRegion": "Samsun",
+      "addressCountry": "TR"
+    }
+  }
+}

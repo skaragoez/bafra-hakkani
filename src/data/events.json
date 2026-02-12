@@ -1,0 +1,19 @@
+[
+  {
+    "id": "hatme-hacegan",
+    "title": "Perşembe Hatme-i Hacegan",
+    "description": "Her Perşembe akşamı Hatme-i Hacegan icra edilmektedir. Program zikir, dua ve manevi sohbet içermektedir.",
+    "schedule": "Her Perşembe akşamı",
+    "recurring": true,
+    "type": "zikir",
+    "dayOfWeek": 4,
+    "details": {
+      "includes": [
+        "Zikir",
+        "Dua",
+        "Manevi Sohbet"
+      ],
+      "participation": "Katılım herkese açıktır."
+    }
+  }
+]
