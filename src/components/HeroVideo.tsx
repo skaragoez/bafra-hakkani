@@ -18,12 +18,21 @@ export default function HeroVideo({
   }, []);
 
   return (
-    <section className="relative w-full h-[60vh] md:h-[70vh] lg:h-[85vh] overflow-hidden bg-gradient-to-br from-dernek-cream via-white to-dernek-cream">
-      {/* Subtle background pattern */}
-      <div className="absolute inset-0 opacity-5">
-        <div className="absolute top-0 left-0 w-96 h-96 bg-dernek-turquoise rounded-full blur-3xl"></div>
-        <div className="absolute bottom-0 right-0 w-96 h-96 bg-dernek-green rounded-full blur-3xl"></div>
+    <section className="relative w-full h-[60vh] md:h-[70vh] lg:h-[85vh] overflow-hidden">
+      {/* Background Image */}
+      <div className="absolute inset-0">
+        <Image
+          src="/images/hero-image-1.png"
+          alt="Background Pattern"
+          fill
+          className="object-cover"
+          priority
+          quality={100}
+        />
       </div>
+      
+      {/* Overlay for better contrast */}
+      <div className="absolute inset-0 bg-white/20"></div>
 
       {/* Logo and Text Overlay - appears at 15 seconds */}
       <div 

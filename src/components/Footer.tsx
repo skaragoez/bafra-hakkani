@@ -6,6 +6,7 @@ const navigation = {
     { name: 'Ana Sayfa', href: '/' },
     { name: 'Hakkımızda', href: '/hakkimizda' },
     { name: 'Nakşibendî Yolu', href: '/naksibendi-yolu' },
+    { name: 'Şeyh Mehmet Adil', href: '/seyh-mehmet-adil' },
     { name: 'Etkinlikler', href: '/etkinlikler' },
     { name: 'İletişim', href: '/iletisim' },
   ],
