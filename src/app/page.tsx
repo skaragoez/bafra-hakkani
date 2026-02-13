@@ -193,9 +193,12 @@ export default function HomePage() {
         {/* Quote from Shah Bahauddin Naqshband */}
         <div className="max-w-4xl mx-auto mb-12">
           <div className="bg-dernek-cream/50 rounded-2xl p-8 md:p-10 border-2 border-dernek-turquoise/20 shadow-md">
-            <blockquote className="text-2xl md:text-3xl font-heading italic text-dernek-blue leading-relaxed text-center mb-4">
-              &quot;Tarîkatuna as-sohba, wa&apos;l-khayru fi&apos;l-jama&apos;iyya&quot;
+            <blockquote className="text-3xl md:text-4xl lg:text-5xl font-heading text-dernek-blue leading-relaxed text-center mb-4" style={{ fontFamily: 'Arial, sans-serif', direction: 'rtl' }}>
+              طَرِيقَتُنَا الصُحْبَةُ وَالخَيْرُ فِي الجَمْعِيَّةِ
             </blockquote>
+            <p className="text-lg italic text-dernek-green/80 text-center mb-2">
+              &quot;Tarîqatuna as-sohba, wa&apos;l-khayru fi&apos;l-jama&apos;iyya&quot;
+            </p>
             <p className="text-lg text-dernek-green text-center mb-2">
               &quot;Bizim yolumuz sohbettir ve hayır cemaat içindedir&quot;
             </p>
