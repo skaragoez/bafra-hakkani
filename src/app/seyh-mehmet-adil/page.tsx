@@ -13,6 +13,21 @@ export default function SeyhMehmetAdilPage() {
     <>
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-dernek-blue to-dernek-turquoise text-white py-20 md:py-32">
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/images/hero-image-1.png"
+            alt="Background Pattern"
+            fill
+            className="object-cover"
+            priority
+            quality={100}
+          />
+        </div>
+
+        {/* Overlay for better contrast */}
+        <div className="absolute inset-0 bg-dernek-blue/70"></div>
+
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 right-0 w-96 h-96 bg-dernek-green rounded-full blur-3xl"></div>
         </div>

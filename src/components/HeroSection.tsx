@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 interface HeroSectionProps {
   title: string;
   subtitle: string;
@@ -7,6 +9,21 @@ interface HeroSectionProps {
 export default function HeroSection({ title, subtitle, description }: HeroSectionProps) {
   return (
     <section className="relative bg-gradient-to-br from-dernek-blue via-dernek-blue to-dernek-turquoise/20 text-white overflow-hidden">
+      {/* Background Image */}
+      <div className="absolute inset-0">
+        <Image
+          src="/images/hero-image-1.png"
+          alt="Background Pattern"
+          fill
+          className="object-cover"
+          priority
+          quality={100}
+        />
+      </div>
+
+      {/* Overlay for better contrast */}
+      <div className="absolute inset-0 bg-dernek-blue/70"></div>
+
       {/* Decorative background patterns */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute top-0 left-0 w-96 h-96 bg-dernek-turquoise rounded-full blur-3xl"></div>
