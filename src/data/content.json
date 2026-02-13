@@ -1,9 +1,9 @@
 {
   "homepage": {
     "hero": {
-      "title": "Bafra Nakşibendî Hakkânî Derneği",
+      "title": "Bafra Nakşibendî Hakkânî Dergâhı",
       "subtitle": "Zikir, Sohbet ve Manevi Yolculuğun Buluşma Noktası",
-      "description": "Bafra'da faaliyet gösteren derneğimiz, Nakşibendî Hakkani yoluna bağlı gönüllülerin bir araya geldiği manevi bir topluluktur. Amacımız; kalp terbiyesi, zikir, sohbet ve kardeşlik ortamı içerisinde Allah'a yakınlaşma yolunda birlikte yürümektir."
+      "description": "Bafra'da faaliyet gösteren dergâhımız, Nakşibendî Hakkânî yoluna bağlı gönüllülerin bir araya geldiği manevi bir topluluktur. Amacımız; kalp terbiyesi, zikir, sohbet ve kardeşlik ortamı içerisinde Allah'a yakınlaşma yolunda birlikte yürümektir."
     },
     "welcome": {
       "text": "Her yaştan ve her kesimden insanımıza kapımız açıktır."
@@ -25,7 +25,7 @@
   },
   "hakkimizda": {
     "title": "Biz Kimiz",
-    "intro": "Derneğimiz, Nakşibendî Hakkani yolunun prensipleri doğrultusunda faaliyet göstermektedir. Bu yol, büyük mutasavvıf Şeyh Nazım Kıbrısî (k.s.)'nin irşad zincirinden gelmekte olup, günümüzde Şeyh Mehmet Adil El-Hakkani El-Rabbani Hazretleri rehberliğinde devam etmektedir.",
+    "intro": "Dergâhımız, Nakşibendî Hakkânî yolunun prensipleri doğrultusunda faaliyet göstermektedir. Bu yol, büyük mutasavvıf Şeyh Nazım Kıbrısî (k.s.)'nin irşad zincirinden gelmekte olup, günümüzde Şeyh Mehmet Adil El-Hakkani El-Rabbani Hazretleri rehberliğinde devam etmektedir.",
     "principle": "Manevi terbiyede esas; edep, hizmet, zikir ve ihlastır.",
     "principles": [
       {
@@ -47,7 +47,7 @@
     ],
     "lineage": {
       "title": "Manevi Silsile",
-      "description": "Nakşibendî Hakkani yolunun manevi rehberleri"
+      "description": "Nakşibendî Hakkânî yolunun manevi rehberleri"
     }
   },
   "naksibendi": {
@@ -66,13 +66,13 @@
       {
         "name": "Şeyh Nazım Kıbrısî (k.s.)",
         "title": "Mürşid-i Kamil",
-        "description": "Şeyh Nazım Kıbrısî Hazretleri, Nakşibendî Hakkani yolunun dünya çapında yayılmasına vesile olmuş büyük bir mürşiddir. Hayatı boyunca irşad ve hizmet faaliyetlerinde bulunmuştur.",
-        "role": "Nakşibendî Hakkani yolunun 40. Büyük Şeyhi"
+        "description": "Şeyh Nazım Kıbrısî Hazretleri, Nakşibendî Hakkânî yolunun dünya çapında yayılmasına vesile olmuş büyük bir mürşiddir. Hayatı boyunca irşad ve hizmet faaliyetlerinde bulunmuştur.",
+        "role": "Nakşibendî Hakkânî yolunun 40. Büyük Şeyhi"
       },
       {
         "name": "Şeyh Mehmet Adil El-Hakkani",
         "title": "Günümüz Manevi Rehberi",
-        "description": "Şeyh Nazım Hazretleri'nin oğlu ve halefi olan Şeyh Mehmet Adil Hazretleri, Nakşibendî Hakkani yolunun günümüzdeki manevi rehberidir.",
+        "description": "Şeyh Nazım Hazretleri'nin oğlu ve halefi olan Şeyh Mehmet Adil Hazretleri, Nakşibendî Hakkânî yolunun günümüzdeki manevi rehberidir.",
         "role": "41. Büyük Şeyh ve Günümüz Mürşidi"
       }
     ]

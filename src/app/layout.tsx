@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         url: '/images/bafra-hakkani-logo_v2.0_transparent.png',
         width: 1200,
         height: 630,
-        alt: 'Bafra Nakşibendî Hakkani Derneği Logo',
+        alt: 'Bafra Hakkânî Dergâhı Logo',
       },
     ],
   },

@@ -3,8 +3,8 @@ import Image from "next/image";
 import PageSection from "@/components/PageSection";
 
 export const metadata: Metadata = {
-  title: "Şeyh Mehmet Adil El-Hakkani | Bafra Nakşibendî Hakkani Derneği",
-  description: "Nakşibendî Hakkani Tarikatı'nın 41. Büyük Şeyhi Şeyh Mehmet Adil El-Hakkani Hazretleri'nin hayatı ve manevi rehberliği.",
+  title: "Şeyh Mehmet Adil El-Hakkani | Bafra Hakkânî Dergâhı",
+  description: "Nakşibendî Hakkânî Tarikatı'nın 41. Büyük Şeyhi Şeyh Mehmet Adil El-Hakkani Hazretleri'nin hayatı ve manevi rehberliği.",
   keywords: ["Şeyh Mehmet Adil", "Naqshbandi Haqqani", "Mürşid-i Kâmil", "Şeyh Nazım", "Tarikat"],
 };
 
@@ -21,7 +21,7 @@ export default function SeyhMehmetAdilPage() {
             Şeyh Mehmet Adil El-Hakkani El-Rabbani
           </h1>
           <p className="text-xl md:text-2xl text-dernek-cream">
-            Nakşibendî Hakkani Tarikatı 41. Büyük Şeyhi
+            Nakşibendî Hakkânî Tarikatı 41. Büyük Şeyhi
           </p>
         </div>
       </section>
@@ -56,7 +56,7 @@ export default function SeyhMehmetAdilPage() {
                     </div>
                     <div>
                       <dt className="font-semibold text-gray-700">Rol:</dt>
-                      <dd className="text-gray-600">41. Nakşibendî Hakkani Şeyhi</dd>
+                      <dd className="text-gray-600">41. Nakşibendî Hakkânî Şeyhi</dd>
                     </div>
                   </dl>
                 </div>
@@ -121,7 +121,7 @@ export default function SeyhMehmetAdilPage() {
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
                   Şeyh Nazım Hazretleri, vefatından önce oğlu Şeyh Mehmet Adil'in kendisinin 
                   halefi olacağını açıkça beyan etmiştir. 7 Mayıs 2014 tarihinde babası 
-                  Şeyh Nazım Hazretleri'nin vefatının ardından, Nakşibendî Hakkani silsilesinin 
+                  Şeyh Nazım Hazretleri'nin vefatının ardından, Nakşibendî Hakkânî silsilesinin 
                   <strong className="text-dernek-turquoise"> 41. Büyük Şeyhi</strong> olmuştur.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed italic">
@@ -144,7 +144,7 @@ export default function SeyhMehmetAdilPage() {
                   rehberlik etmekte, sohbetler vermekte ve dua himmetleriyle onları desteklemektedir.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Nakşibendî Hakkani öğretilerini yaymak için uluslararası seyahatler 
+                  Nakşibendî Hakkânî öğretilerini yaymak için uluslararası seyahatler 
                   gerçekleştirmekte ve dünya çapındaki müridleriyle aktif bir şekilde 
                   bağlantı halinde bulunmaktadır.
                 </p>
@@ -156,7 +156,7 @@ export default function SeyhMehmetAdilPage() {
                   Bafra Dergâhı ile Bağlantı
                 </h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Bafra Nakşibendî Hakkani Dergâhı, Şeyh Mehmet Adil Hazretleri'nin mübarek 
+                  Bafra Nakşibendî Hakkânî Dergâhı, Şeyh Mehmet Adil Hazretleri'nin mübarek 
                   izni ve himayesi altında kurulmuştur.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
@@ -178,7 +178,7 @@ export default function SeyhMehmetAdilPage() {
             Mürşidsiz yola çıkmak, pusulasız denize açılmak gibidir."
           </blockquote>
           <p className="mt-6 text-gray-600">
-            — Nakşibendî Hakkani Öğretisi
+            — Nakşibendî Hakkânî Öğretisi
           </p>
         </div>
       </PageSection>

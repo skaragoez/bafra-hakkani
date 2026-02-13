@@ -17,7 +17,7 @@ export default function HakkimizdaPage() {
     <>
       <HeroSection
         title={hakkimizda.title}
-        subtitle="Nakşibendî Hakkani yolunun prensipleri doğrultusunda"
+        subtitle="Nakşibendî Hakkânî yolunun prensipleri doğrultusunda"
       />
 
       {/* Introduction */}
@@ -91,7 +91,7 @@ export default function HakkimizdaPage() {
                     40. Büyük Şeyh
                   </p>
                   <p className="text-gray-600">
-                    Nakşibendî Hakkani yolunun dünya çapında yayılmasına vesile olmuş büyük mürşid
+                    Nakşibendî Hakkânî yolunun dünya çapında yayılmasına vesile olmuş büyük mürşid
                   </p>
                 </div>
               </div>

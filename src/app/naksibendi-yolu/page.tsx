@@ -105,7 +105,7 @@ export default function NaksibendiPage() {
         <div className="max-w-3xl mx-auto text-center">
           <div className="bg-white p-8 rounded-lg shadow-lg border-t-4 border-dernek-green">
             <p className="text-lg text-gray-700 leading-relaxed">
-              Nakşibendî Hakkani yolu, bin yılı aşkın bir geleneğe sahip manevi bir yoldur. 
+              Nakşibendî Hakkânî yolu, bin yılı aşkın bir geleneğe sahip manevi bir yoldur. 
               Bu yolda, kalp terbiyesi ve Allah sevgisi esas alınarak manevi olgunlaşma hedeflenir.
             </p>
           </div>

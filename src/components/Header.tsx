@@ -48,7 +48,7 @@ export default function Header() {
               <div className="relative h-20 w-20 sm:h-28 sm:w-28 transition-transform duration-300 group-hover:scale-105">
                 <Image
                   src="/images/bafra-hakkani-logo_v2.0_transparent.png"
-                  alt="Bafra Nakşibendî Hakkani Derneği Logo"
+                  alt="Bafra Hakkânî Dergâhı Logo"
                   fill
                   className="object-contain"
                   priority
@@ -59,7 +59,7 @@ export default function Header() {
                   Bafra Nakşibendî
                 </div>
                 <div className="text-base text-dernek-green">
-                  Hakkani Derneği
+                  Hakkânî Dergâhı
                 </div>
               </div>
             </Link>

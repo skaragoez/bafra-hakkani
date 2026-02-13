@@ -71,7 +71,7 @@ export default function HeroVideo({
         <div className="relative w-full h-full animate-spin-slower">
           <Image
             src="/images/hakkani-mührü.png"
-            alt="Hakkani Mührü"
+            alt="Hakkânî Mührü"
             fill
             className="object-contain opacity-30"
           />

@@ -1,17 +1,17 @@
 {
   "site": {
-    "name": "Bafra Nakşibendî Hakkani Derneği",
+    "name": "Bafra Hakkânî Dergâhı",
     "url": "https://bafra-hakkani.org",
-    "description": "Bafra'da Nakşibendî Hakkani yoluna bağlı derneğimizde Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
+    "description": "Bafra'da Nakşibendî Hakkânî yoluna bağlı dergâhımızda Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
     "locale": "tr_TR",
     "type": "website"
   },
   "pages": {
     "/": {
-      "title": "Bafra Nakşibendî Hakkani Derneği | Zikir ve Sohbet",
-      "description": "Bafra'da Nakşibendî Hakkani yoluna bağlı derneğimizde Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
+      "title": "Bafra Hakkânî Dergâhı | Zikir ve Sohbet",
+      "description": "Bafra'da Nakşibendî Hakkânî yoluna bağlı dergâhımızda Perşembe Hatme-i Hacegan, sohbet ve manevi programlara katılabilirsiniz.",
       "keywords": [
-        "Bafra Nakşibendî Hakkani Derneği",
+        "Bafra Hakkânî Dergâhı",
         "Nakşibendî yolu",
         "Hatme-i Hacegan",
         "Bafra dini dernek",
@@ -22,19 +22,19 @@
       ]
     },
     "/hakkimizda": {
-      "title": "Hakkımızda | Bafra Nakşibendî Hakkani Derneği",
-      "description": "Nakşibendî Hakkani yolunun prensipleri doğrultusunda faaliyet gösteren derneğimiz hakkında bilgi edinin.",
+      "title": "Hakkımızda | Bafra Hakkânî Dergâhı",
+      "description": "Nakşibendî Hakkânî yolunun prensipleri doğrultusunda faaliyet gösteren dergâhımız hakkında bilgi edinin.",
       "keywords": [
         "Bafra Nakşibendî",
-        "Hakkani derneği",
+        "Hakkânî dergâhı",
         "Şeyh Nazım Kıbrısî",
         "Şeyh Mehmet Adil",
         "Manevi terbiye"
       ]
     },
     "/naksibendi-yolu": {
-      "title": "Nakşibendî Yolu | Bafra Nakşibendî Hakkani Derneği",
-      "description": "Nakşibendî Hakkani yolunun esasları, zikir, sohbet ve kalp eğitimi hakkında detaylı bilgi.",
+      "title": "Nakşibendî Yolu | Bafra Hakkânî Dergâhı",
+      "description": "Nakşibendî Hakkânî yolunun esasları, zikir, sohbet ve kalp eğitimi hakkında detaylı bilgi.",
       "keywords": [
         "Nakşibendî yolu",
         "Şeyh Nazım Kıbrısî",
@@ -45,7 +45,7 @@
       ]
     },
     "/etkinlikler": {
-      "title": "Etkinlikler | Bafra Nakşibendî Hakkani Derneği",
+      "title": "Etkinlikler | Bafra Hakkânî Dergâhı",
       "description": "Perşembe Hatme-i Hacegan ve diğer manevi programlarımız hakkında bilgi alın.",
       "keywords": [
         "Hatme-i Hacegan",
@@ -56,8 +56,8 @@
       ]
     },
     "/iletisim": {
-      "title": "İletişim | Bafra Nakşibendî Hakkani Derneği",
-      "description": "Bafra Nakşibendî Hakkani Derneği ile iletişime geçin.",
+      "title": "İletişim | Bafra Hakkânî Dergâhı",
+      "description": "Bafra Hakkânî Dergâhı ile iletişime geçin.",
       "keywords": [
         "Bafra dernek iletişim",
         "Nakşibendî Bafra",
@@ -66,9 +66,9 @@
     }
   },
   "organization": {
-    "name": "Bafra Nakşibendî Hakkani Derneği",
-    "legalName": "Bafra Nakşibendî Hakkani Derneği",
-    "description": "Nakşibendî Hakkani yoluna bağlı manevi topluluk",
+    "name": "Bafra Hakkânî Dergâhı",
+    "legalName": "Bafra Hakkânî Dergâhı",
+    "description": "Nakşibendî Hakkânî yoluna bağlı manevi topluluk",
     "foundingLocation": "Bafra, Samsun, Türkiye",
     "areaServed": "Bafra, Samsun",
     "address": {

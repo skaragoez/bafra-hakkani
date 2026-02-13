@@ -1,0 +1,49 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#3CA9A9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#005F71;stop-opacity:1" />
+    </radialGradient>
+
+    <linearGradient id="speechGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8BC34A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#558B2F;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="roseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Circle -->
+  <circle cx="512" cy="512" r="500" fill="url(#bgGrad)"/>
+
+  <!-- Left Speech Bubble -->
+  <path d="M 300,600 C 260,560 240,500 300,460 C 340,430 420,430 460,460 C 500,490 500,550 460,580 C 420,610 340,610 300,600 Z" fill="url(#speechGrad)" stroke="#558B2F" stroke-width="3"/>
+
+  <!-- Right Speech Bubble -->
+  <path d="M 540,600 C 500,560 480,500 540,460 C 580,430 660,430 700,460 C 740,490 740,550 700,580 C 660,610 580,610 540,600 Z" fill="url(#speechGrad)" stroke="#558B2F" stroke-width="3"/>
+
+  <!-- Rose Center - Top Petal -->
+  <ellipse cx="512" cy="470" rx="40" ry="35" fill="url(#roseGrad)" opacity="0.9"/>
+  
+  <!-- Rose Center - Middle Petal -->
+  <ellipse cx="512" cy="495" rx="30" ry="25" fill="url(#roseGrad)"/>
+  
+  <!-- Rose Center - Bottom Petal -->
+  <ellipse cx="512" cy="515" rx="20" ry="18" fill="#C62828"/>
+  
+  <!-- Rose Stem -->
+  <rect x="507" y="530" width="10" height="60" rx="5" fill="#558B2F"/>
+  
+  <!-- Leaf left -->
+  <ellipse cx="495" cy="555" rx="15" ry="8" fill="#689F38" transform="rotate(-25 495 555)"/>
+  
+  <!-- Leaf right -->
+  <ellipse cx="529" cy="555" rx="15" ry="8" fill="#689F38" transform="rotate(25 529 555)"/>
+
+  <!-- Subtle shadow circles under speech bubbles -->
+  <ellipse cx="380" cy="600" rx="80" ry="20" fill="#000000" opacity="0.15"/>
+  <ellipse cx="620" cy="600" rx="80" ry="20" fill="#000000" opacity="0.15"/>
+</svg>

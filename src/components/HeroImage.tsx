@@ -7,7 +7,7 @@ interface HeroImageProps {
 
 export default function HeroImage({ 
   src = "/images/bafra-hakkani-logo_v2.0_transparent.png", 
-  alt = "Bafra Nakşibendî Hakkani Derneği" 
+  alt = "Bafra Hakkânî Dergâhı" 
 }: HeroImageProps) {
   return (
     <section className="relative w-full h-[60vh] md:h-[70vh] lg:h-[80vh] overflow-hidden bg-gradient-to-br from-dernek-blue/5 via-dernek-cream to-dernek-turquoise/5">
