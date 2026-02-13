@@ -52,30 +52,98 @@
   },
   "naksibendi": {
     "title": "Nakşibendî Yolu",
-    "intro": "Nakşibendî yolu; kalp merkezli zikir, sünnete bağlılık ve manevi olgunlaşma esasına dayanır.",
+    "intro": "Nakşibendî yolu; kalp merkezli zikir, sünnete bağlılık ve manevi olgunlaşma esasına dayanır. Hz. Peygamber (s.a.v.)'in kalp hakikatlerini Hz. Ebu Bekir es-Sıddık (r.a.) aracılığıyla günümüze kadar kesintisiz bir silsile ile ulaştıran en kısa ve en mükemmel tarikat yoludur.",
+    "history": {
+      "title": "Nakşibendî Tarikatının Doğuşu",
+      "content": "Nakşibendî Tarikatı, Hz. Peygamber (s.a.v.) ve Hz. Ebu Bekir es-Sıddık (r.a.)'ın Sevr Mağarası'nda saklandıkları an doğmuştur. O anda mağarada sayısız ses 'Allahu Allahu Allahu Haqq' diyordu - bu Nakşibendî Tarikatı'nın biat duasıdır. Hz. Ebu Bekir, o anda Ahd-i Elest Gününde Nakşibendî Tarikatının 7007 imamı olmak üzere seçilen tüm ruhları mağaraya çağırmıştır. Onlar da müritlerinin ruhlarını çağırmışlardır. O gün Sevr Mağarası'nda bulunanlar, kıyamete kadar Nakşibendî yolunun takipçileri olmaya mahkumdurlar."
+    },
+    "realFaith": {
+      "title": "Hakiki İman ve Taklit İman",
+      "content": "İki tür iman vardır: Hakiki ve taklit. Hakiki iman, insanın kalbine nur getirir. Hakiki imanın üç alâmeti vardır:",
+      "signs": [
+        {
+          "title": "Tüm Yaratıkların Zikri",
+          "description": "Kur'an'a göre varlıkta Allah'ı zikreden bir şey yoktur; cansız varlıklar bile. Hakiki mü'min bu zikirları işitir."
+        },
+        {
+          "title": "Hikmet Çeşmesi",
+          "description": "Allah'ın kalbini hikmet pınarına açması, var olan her şeyin konumunu ve amacını bilmesi."
+        },
+        {
+          "title": "Berzah'a Açık Gönül",
+          "description": "Artık Berzah (ahiret alemleri) ile arasında perde kalmamıştır. Herhangi bir Peygamber veya Velî ile engelsizce görüşebilir."
+        }
+      ],
+      "note": "Bu üç alâmet görünene kadar, kişinin örtülü olduğunu ve imanın nuruna açık olmadığını biliniz. Tarikatlar, müridleri hakiki imana hazırlamaktadır."
+    },
+    "sheikh": {
+      "title": "Şeyh'in Rolü ve Perdelerin Kaldırılması",
+      "content": "İlahi Huzura ulaşmış ve Hz. Peygamber (s.a.v.) tarafından yetkilendirilmiş biri bu perdeleri kaldırma bilgisine sahiptir. Bu nedenle, İlahi Huzura ulaşmak için kişi bir tarikatın Şeyhine biat vermeli ve onun öğretilerini takip etmelidir. Mürit, Şeyhinin her emrine itaat ettiğinde, ona verilen tüm imtihanları geçer ve böylece Şeyhi nezdinde güven kazanır. Şeyh, müridi güvenilir bulduğunda, mürit ile İlahi Huzur arasındaki perdeleri yırtar. Her perde kaldırıldığında, müride yeni bir deneyim nasip olur ve yeni bilgi ufukları açılır."
+    },
+    "sohbet": {
+      "title": "Sohbet: Yolun Temeli",
+      "content": "Peygamber Efendimiz (s.a.v.) ashabına her şeyden önce sohbeti öğretmiştir. Buna göre, Peygamber'in varisleri olan Nakşibendî Şeyhleri, arayıcıların eğitiminde temel sütun olarak 'Sohbet', yani Şeyh ile sohbeti vurgularlar.",
+      "quote": "Şah-ı Nakşibend Hazretleri meclislerinde şunu tekrarlardı: 'Bizim yolumuz sohbettir, cemaat halinde olmaktır ve her hayır buradan çıkar.'",
+      "benefit": "Bu yolun bir meclisine beş ya da on dakika katılsa bile, o kısa karşılaşmadan öyle muazzam manevi fayda elde edecektir ki, yedi yıllık nafile ibadetlerden elde edilecek faydaları aşar."
+    },
+    "naqsh": {
+      "title": "Kalpteki 'Nakş' (Mühür)",
+      "content": "Kalpteki 'Nakş' (mühür) 'Allah'tır. Kalbinde bu 'Nakş'ı isteyen Nakşibendî Yolu'na gelecektir. Bu, tüm dinlerdeki en yüksek yoldur. O dövme yapıldığında, insan daima Rabbi ile olacaktır. O zaman ölümlü kişiliği silinecek ve insanlık arasında Rabbinin temsilcisi olacaktır. Egosunu geride bırakacak ve Rabbinin saf, arınmış, 'özel' bir kulu olacaktır. Artık kişilik yok, kalbi mühürlenmiş, 'Allah.'"
+    },
+    "way": {
+      "title": "Nakşibendî Yolu: Günümüzün Tek Açık Kapısı",
+      "content": "Hz. Peygamber (s.a.v.) ahir zamandan bahsederek, tek açık kapının Hz. Ebu Bekir es-Sıddık (r.a.)'ın kapısı olacağını söylemiştir ki bu da Nakşibendî Tarikatının köküdür. Hz. Peygamber'e hakiki bir bağlantı için, günümüzde açık olan tek yol Nakşibendî Tarikatı'dır.",
+      "quote": "Mevlana Şeyh Nazım (k.s.) buyurur ki: 'Ben, Nakşibendî Tarikatının o mükemmel yolunda rehberlik yetkisi almış bir kimseyim. Nakşibendî Tarikatı, bütün dünyayı kapsayan bir gök gibidir. Kimse ondan kaçamaz çünkü o bütün yolları içerir, mükemmeldir ve en kısadır.'"
+    },
+    "connection": {
+      "title": "Şeyh ile Bağlantı",
+      "quote": "Mevlana Şeyh Nazım (k.s.) buyurur: 'Bana şu şekilde emredildi ki, herhangi bir zaman, herhangi bir kimse kendisi üzerindeki kontrolünü kaybediyorsa ve zor bir durumda ise, derhal kalbimle irtibat kurabilir. Beni düşünmeleri yeterlidir, derhal benimle irtibat kurmuş olurlar. Beni hatırlamaları yeterlidir, bu benim ona ya da kendisine bakmamı sağlar. Bu bağlantı, hızla içinizden bir güç akışı sağlayacak ve tehlikeli bir duruma düşmekten korunacaksınız. Bu benim manevi gücüm değil, ben Evliyalar aracılığıyla Rabbimize bağlı bir zincirin parçasıyım. Ben, size ulaşan zincirin son parçasıyım. Elektriğe bağlanabileceğiniz bir fiş gibi.'"
+    },
     "foundations": {
       "title": "Temel Esaslar",
       "items": [
-        "Zikir meclisleri",
-        "Manevi sohbetler",
-        "Kalp eğitimi",
-        "Toplumsal hizmet anlayışı"
+        "Kalp merkezli zikir meclisleri",
+        "Manevi sohbetler (Sohbet)",
+        "Şeyh'e tam itaat ve teslim",
+        "Kalp terbiyesi ve nefis mücadelesi",
+        "Sünnete bağlılık",
+        "Perdelerin kaldırılması yoluyla manevi yükseliş"
       ]
+    },
+    "station": {
+      "title": "Sıddîk Makamı",
+      "content": "Hz. Ebu Bekir'e 'Sıddîk' yani 'Tamamen Doğru Olan' denildi. Sıddîk makamı, Peygamberlik Makamından sonra en yüksek makamdır. Nakşibendî Yolu öğretileri aracılığıyla manevi eğitimini alan herkes, sonunda Sıddîk Makamına, Mutlak Doğruluk Makamına ulaşmayı umabilir. Hz. Peygamber (s.a.v.) şöyle buyurmuştur: 'Kalbime dökülen her şeyi Ebu Bekir'in kalbine döktüm.'"
     },
     "sheikhs": [
       {
+        "name": "Hz. Ebu Bekir es-Sıddık (r.a.)",
+        "title": "Nakşibendî Silsilesinin Kaynağı",
+        "description": "Hz. Peygamber'in (s.a.v.) tüm kalp hakikatlerini alan ilk halife. Ona 'Sıddîk' (Tamamen Doğru Olan) denildi. Nakşibendî Tarikatı, Hz. Peygamber'in kalbinde doğdu ve Hz. Ebu Bekir aracılığıyla kesintisiz bir silsile ile günümüze ulaştı.",
+        "role": "İlk Halife ve Nakşibendî Silsilesinin Başı"
+      },
+      {
+        "name": "Şah-ı Nakşibend Hazretleri",
+        "title": "Tarikatın Adını Veren İmam",
+        "description": "Takip ettiğimiz silsilenin mübarek imamı. Eğer O olmasaydı Nakşibendî Tarikatı olmazdı. Meclislerinde her zaman şunu tekrarlardı: 'Bizim yolumuz sohbettir, cemaat halinde olmaktır ve her hayır buradan çıkar.'",
+        "role": "Nakşibendî Tarikatının İsim Babası"
+      },
+      {
         "name": "Şeyh Nazım Kıbrısî (k.s.)",
         "title": "Mürşid-i Kamil",
-        "description": "Şeyh Nazım Kıbrısî Hazretleri, Nakşibendî Hakkânî yolunun dünya çapında yayılmasına vesile olmuş büyük bir mürşiddir. Hayatı boyunca irşad ve hizmet faaliyetlerinde bulunmuştur.",
-        "role": "Nakşibendî Hakkânî yolunun 40. Büyük Şeyhi"
+        "description": "Şeyh Nazım Kıbrısî Hazretleri, Nakşibendî Hakkânî yolunun dünya çapında yayılmasına vesile olmuş büyük bir mürşiddir. Hayatı boyunca irşad ve hizmet faaliyetlerinde bulunmuştur. O, Nakşibendî yolunda rehberlik yetkisi almış ve müridlerini manevi olarak yönlendirmiştir.",
+        "role": "Nakşibendî Hakkânî Yolunun 40. Büyük Şeyhi"
       },
       {
         "name": "Şeyh Mehmet Adil El-Hakkani",
         "title": "Günümüz Manevi Rehberi",
-        "description": "Şeyh Nazım Hazretleri'nin oğlu ve halefi olan Şeyh Mehmet Adil Hazretleri, Nakşibendî Hakkânî yolunun günümüzdeki manevi rehberidir.",
+        "description": "Şeyh Nazım Hazretleri'nin oğlu ve halefi olan Şeyh Mehmet Adil Hazretleri, Nakşibendî Hakkânî yolunun günümüzdeki manevi rehberidir. Hz. Peygamber (s.a.v.) tarafından yetkilendirilmiş ve perdeleri kaldırma bilgisine sahip olan günümüzün mürşididir.",
         "role": "41. Büyük Şeyh ve Günümüz Mürşidi"
       }
-    ]
+    ],
+    "closing": {
+      "title": "Son Söz",
+      "content": "Nakşibendî Hakkânî yolu, bin yılı aşkın bir geleneğe sahip manevi bir yoldur. Bu yolda, kalp terbiyesi ve Allah sevgisi esas alınarak manevi olgunlaşma hedeflenir. Tarikatlar, ilahi huzura ulaşmanın yollarıdır. Bir Tarikatın Şeyhi, kendi Şeyhi ile iletişim kurabilir, o da kendi Şeyhi ile iletişim kurabilir ve böylece zincirin sonuna kadar gider; Tarikatın ilk Şeyhi Hz. Peygamber (s.a.v.) ile iletişim halindedir."
+    }
   },
   "etkinlikler": {
     "title": "Etkinlikler",
