@@ -36,14 +36,14 @@ export default function HeroVideo({
 
       {/* Logo and Text Overlay - appears at 15 seconds */}
       <div 
-        className={`absolute inset-0 flex items-center justify-start px-6 md:px-12 lg:px-24 transition-opacity duration-[3000ms] ${
+        className={`absolute inset-0 flex items-start pt-12 md:items-center md:pt-0 justify-center px-4 sm:px-6 md:px-12 lg:px-24 transition-opacity duration-[3000ms] ${
           showOverlay ? 'opacity-100' : 'opacity-0'
         }`}
       >
-        <div className="mx-auto max-w-7xl w-full flex flex-col md:flex-row items-center md:items-center justify-start gap-8 md:gap-16">
-          {/* Logo - Left Side - Larger */}
-          <div className="flex justify-start">
-            <div className="relative w-80 h-80 md:w-[28rem] md:h-[28rem] lg:w-[32rem] lg:h-[32rem] drop-shadow-2xl">
+        <div className="mx-auto max-w-7xl w-full flex flex-col md:flex-row items-center justify-center gap-4 md:gap-12">
+          {/* Logo - Much larger on mobile, positioned higher */}
+          <div className="flex justify-center md:justify-end flex-shrink-0">
+            <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 drop-shadow-2xl">
               <Image
                 src="/images/bafra-hakkani-logo_v2.0_transparent.png"
                 alt="Bafra Hakkânî Dergâhı Logo"
@@ -54,10 +54,10 @@ export default function HeroVideo({
             </div>
           </div>
 
-          {/* Text - Right Side */}
-          <div className="flex justify-start">
+          {/* Text - Larger on mobile */}
+          <div className="flex justify-center md:justify-start">
             <h1 
-              className="hero-title text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-dernek-blue drop-shadow-lg text-center md:text-left leading-none"
+              className="hero-title text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl text-dernek-blue drop-shadow-lg text-center md:text-left leading-tight md:leading-none"
             >
               Bafra Hakkânî<br />
               Dergâhı

@@ -40,12 +40,12 @@ export default function Header() {
           : 'bg-white/95 backdrop-blur-sm'
       }`}
     >
-      <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8" aria-label="Top">
-        <div className="flex h-32 items-center justify-between">
+      <nav className="mx-auto max-w-7xl px-3 sm:px-4 lg:px-8" aria-label="Top">
+        <div className="flex h-16 sm:h-24 md:h-32 items-center justify-between gap-2">
           {/* Logo */}
-          <div className="flex items-center">
-            <Link href="/" className="flex items-center space-x-4 group">
-              <div className="relative h-20 w-20 sm:h-28 sm:w-28 transition-transform duration-300 group-hover:scale-105">
+          <div className="flex items-center min-w-0 flex-1 lg:flex-initial">
+            <Link href="/" className="flex items-center space-x-3 group min-w-0">
+              <div className="relative h-12 w-12 sm:h-20 sm:w-20 md:h-28 md:w-28 flex-shrink-0 transition-transform duration-300 group-hover:scale-105">
                 <Image
                   src="/images/bafra-hakkani-logo_v2.0_transparent.png"
                   alt="Bafra Hakkânî Dergâhı Logo"
@@ -54,11 +54,11 @@ export default function Header() {
                   priority
                 />
               </div>
-              <div className="hidden sm:block">
-                <div className="text-xl font-heading font-semibold text-dernek-blue leading-tight">
+              <div className="min-w-0">
+                <div className="text-sm sm:text-base md:text-xl font-heading font-semibold text-dernek-blue leading-tight truncate">
                   Bafra Nakşibendî
                 </div>
-                <div className="text-base text-dernek-green">
+                <div className="text-xs sm:text-sm md:text-base text-dernek-green truncate">
                   Hakkânî Dergâhı
                 </div>
               </div>
@@ -88,7 +88,7 @@ export default function Header() {
           </div>
 
           {/* Mobile menu button */}
-          <div className="flex lg:hidden">
+          <div className="flex lg:hidden ml-2 flex-shrink-0">
             <button
               type="button"
               className="inline-flex items-center justify-center rounded-md p-2 text-dernek-blue hover:bg-dernek-cream hover:text-dernek-turquoise transition-colors duration-300"
@@ -111,12 +111,12 @@ export default function Header() {
         {/* Mobile menu */}
         {mobileMenuOpen && (
           <div className="lg:hidden border-t border-dernek-cream">
-            <div className="space-y-1 pb-4 pt-4">
+            <div className="space-y-1 pb-3 pt-3">
               {navigation.map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
-                  className={`block py-3 px-4 text-base font-medium rounded-md transition-all duration-300 ${
+                  className={`block py-2 px-3 text-sm font-medium rounded-md transition-all duration-300 ${
                     isActive(item.href)
                       ? 'bg-dernek-turquoise/10 text-dernek-turquoise'
                       : 'text-dernek-blue hover:bg-dernek-cream hover:text-dernek-green'
