@@ -40,7 +40,7 @@ export default function HeroVideo({
           showOverlay ? 'opacity-100' : 'opacity-0'
         }`}
       >
-        <div className="max-w-7xl w-full flex flex-col md:flex-row items-center md:items-center justify-start gap-8 md:gap-16">
+        <div className="mx-auto max-w-7xl w-full flex flex-col md:flex-row items-center md:items-center justify-start gap-8 md:gap-16">
           {/* Logo - Left Side - Larger */}
           <div className="flex justify-start">
             <div className="relative w-80 h-80 md:w-[28rem] md:h-[28rem] lg:w-[32rem] lg:h-[32rem] drop-shadow-2xl">
@@ -57,13 +57,7 @@ export default function HeroVideo({
           {/* Text - Right Side */}
           <div className="flex justify-start">
             <h1 
-              className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-dernek-blue drop-shadow-lg text-center md:text-left leading-none" 
-              style={{ 
-                fontFamily: 'var(--font-mandalina)', 
-                fontWeight: 700,
-                WebkitTextStroke: '1.5px #0E2A47',
-                textShadow: '2px 2px 4px rgba(0,0,0,0.2)'
-              }}
+              className="hero-title text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-dernek-blue drop-shadow-lg text-center md:text-left leading-none"
             >
               Bafra Hakkânî<br />
               Dergâhı
